@@ -1,2 +1,1 @@
-# Discord-bot-1
-Old code discord 
+# Discord Bot Server 1
